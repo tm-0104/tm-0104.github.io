@@ -1,6 +1,6 @@
 # akirakamio.com
 
-神尾友彬 (Akira Kamio) — Photographer / Physician のポートフォリオサイト。
+神尾彬 (Akira Kamio) — Photographer / Physician のポートフォリオサイト。
 
 - 静的HTML/CSS/JS(ビルド不要)
 - GitHub Pagesでホスティング、独自ドメイン akirakamio.com
